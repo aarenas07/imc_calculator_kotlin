@@ -1,4 +1,4 @@
-package com.aarenas.androidmaster
+package com.aarenas.androidmaster.sintaxys
 
 fun main(){
 ifBasico()

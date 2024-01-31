@@ -1,4 +1,4 @@
-package com.aarenas.androidmaster
+package com.aarenas.androidmaster.sintaxys
 
 val edad:Int = 2
 val edad2:Int = 3
