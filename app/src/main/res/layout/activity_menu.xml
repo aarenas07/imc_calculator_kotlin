@@ -30,4 +30,11 @@
         android:layout_gravity="center"
         android:text="TODO App" />
 
+    <Button
+        android:id="@+id/btnSuperhero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Super Hero App" />
+
 </LinearLayout>
